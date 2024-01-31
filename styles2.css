@@ -30,7 +30,7 @@ nav {
     background-image:linear-gradient(to left,#2104D9,#020873,#020659);
     top: 0;
     z-index: 1;
-    margin: none;
+    margin: 0;
     padding: 0 5rem;
     width: 375px;
     /* top: -30px; */
@@ -209,7 +209,7 @@ audio {
     display: block;
     text-align: center;
     width: 150px;
-    margin: 10 0 30px 32px;
+    margin: 10px 0 30px 32px;
 }
 
 .more:hover {
